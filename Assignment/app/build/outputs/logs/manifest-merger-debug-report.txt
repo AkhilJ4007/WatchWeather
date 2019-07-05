@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/457997ed07ee5ba170ef55438b8b8ddf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/4e350f51da6fb0ae2a85df43254dc3c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ab3a28c36371244f377993830f89eaf0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/cd18713802ad589ead7452a0e80ecbe7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/5d150fab85dadbe44dbe5569d8a0ae4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dc67a11dfdec0cbb2c3d34c267c13adf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/7d75d5404937fc73efe1ee6be25b0ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/66f4694acf1ac7a242c74746107e0dd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/1d80da91b900e9ee82b15f4446f416ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/8c996c37392a8cebbc3b1124d6b71d9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/9deb79406427b8fae78125b4ef6ec7ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/0ac23d4ce56a69f83001ab952e911427/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/b694f7fcf5f9742ee3c7364ab40c7ce7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f3d1ad402562e4497e7ce221239f1e35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/63bdaa2cf21e3315321aefe0ff58da39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/4f735488418034d43fb7915048023072/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/819e71cb848bb522b03f40e5b9e2842b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/b2e409180a148da0a1cb90550a702c0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/da57a02817d739e36457c91a537cd5aa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ed9ecf4c3d802dcaee009a4feb3a3879/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/14e7b5fa510f7deb55f7f38f886a5c7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/d71bac2d75bb3396309d8ffab63437e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/930166344109c5e9b3acd77758d28720/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ca404976dc391aecb52275864e48337d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/722e734ffe3c6d2b362f85ce8b780094/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/cbc10cbd88993e778c927e4f4659490a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/327e0572a7ce663344121189d3bb35b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/bfd4a1e773b65383efb7b4b51bf47ef3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/e5b75f76a98a221f1856e16d4f85d1cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ab836d27aacc9b47bf9fc691e84b24c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/32092c40776258635b82108d1f0ed7b1/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:9:22-65
+uses-feature#android.hardware.type.watch
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:11:19-61
+application
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:13:5-40:19
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/457997ed07ee5ba170ef55438b8b8ddf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/457997ed07ee5ba170ef55438b8b8ddf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dc67a11dfdec0cbb2c3d34c267c13adf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dc67a11dfdec0cbb2c3d34c267c13adf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/da57a02817d739e36457c91a537cd5aa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/da57a02817d739e36457c91a537cd5aa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ed9ecf4c3d802dcaee009a4feb3a3879/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ed9ecf4c3d802dcaee009a4feb3a3879/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/32092c40776258635b82108d1f0ed7b1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/32092c40776258635b82108d1f0ed7b1/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/da57a02817d739e36457c91a537cd5aa/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:18:9-59
+uses-library#com.google.android.wearable
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:19:9-21:39
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:20:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:27:9-29:36
+	android:value
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:29:13-33
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:28:13-66
+activity#com.example.assignment.MainActivity
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dee57ad788872d931e8d14215b4aab78/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/457997ed07ee5ba170ef55438b8b8ddf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/457997ed07ee5ba170ef55438b8b8ddf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/4e350f51da6fb0ae2a85df43254dc3c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/4e350f51da6fb0ae2a85df43254dc3c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ab3a28c36371244f377993830f89eaf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ab3a28c36371244f377993830f89eaf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/cd18713802ad589ead7452a0e80ecbe7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/cd18713802ad589ead7452a0e80ecbe7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/5d150fab85dadbe44dbe5569d8a0ae4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/5d150fab85dadbe44dbe5569d8a0ae4d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dc67a11dfdec0cbb2c3d34c267c13adf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/dc67a11dfdec0cbb2c3d34c267c13adf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/7d75d5404937fc73efe1ee6be25b0ba9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/7d75d5404937fc73efe1ee6be25b0ba9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/66f4694acf1ac7a242c74746107e0dd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/66f4694acf1ac7a242c74746107e0dd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/1d80da91b900e9ee82b15f4446f416ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/1d80da91b900e9ee82b15f4446f416ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/8c996c37392a8cebbc3b1124d6b71d9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/8c996c37392a8cebbc3b1124d6b71d9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/9deb79406427b8fae78125b4ef6ec7ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/9deb79406427b8fae78125b4ef6ec7ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/0ac23d4ce56a69f83001ab952e911427/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/0ac23d4ce56a69f83001ab952e911427/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/b694f7fcf5f9742ee3c7364ab40c7ce7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/b694f7fcf5f9742ee3c7364ab40c7ce7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f3d1ad402562e4497e7ce221239f1e35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f3d1ad402562e4497e7ce221239f1e35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/63bdaa2cf21e3315321aefe0ff58da39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/63bdaa2cf21e3315321aefe0ff58da39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/4f735488418034d43fb7915048023072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/4f735488418034d43fb7915048023072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/819e71cb848bb522b03f40e5b9e2842b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/819e71cb848bb522b03f40e5b9e2842b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/b2e409180a148da0a1cb90550a702c0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/b2e409180a148da0a1cb90550a702c0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/da57a02817d739e36457c91a537cd5aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/da57a02817d739e36457c91a537cd5aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ed9ecf4c3d802dcaee009a4feb3a3879/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ed9ecf4c3d802dcaee009a4feb3a3879/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/14e7b5fa510f7deb55f7f38f886a5c7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/14e7b5fa510f7deb55f7f38f886a5c7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/d71bac2d75bb3396309d8ffab63437e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/d71bac2d75bb3396309d8ffab63437e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/930166344109c5e9b3acd77758d28720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/930166344109c5e9b3acd77758d28720/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ca404976dc391aecb52275864e48337d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ca404976dc391aecb52275864e48337d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/722e734ffe3c6d2b362f85ce8b780094/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/722e734ffe3c6d2b362f85ce8b780094/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/cbc10cbd88993e778c927e4f4659490a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/cbc10cbd88993e778c927e4f4659490a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/327e0572a7ce663344121189d3bb35b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/327e0572a7ce663344121189d3bb35b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/bfd4a1e773b65383efb7b4b51bf47ef3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/bfd4a1e773b65383efb7b4b51bf47ef3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/e5b75f76a98a221f1856e16d4f85d1cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/e5b75f76a98a221f1856e16d4f85d1cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ab836d27aacc9b47bf9fc691e84b24c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/ab836d27aacc9b47bf9fc691e84b24c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/32092c40776258635b82108d1f0ed7b1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/32092c40776258635b82108d1f0ed7b1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akhiljamesjoseph/Desktop/Assignment/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/afb1a683992564736c48cec061467c0a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/akhiljamesjoseph/.gradle/caches/transforms-2/files-2.1/f0ef843f6707d6a8039920eea153f574/AndroidManifest.xml:24:13-58
